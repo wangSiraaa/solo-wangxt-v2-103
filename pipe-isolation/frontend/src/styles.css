@@ -1,0 +1,23 @@
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", "Microsoft YaHei", sans-serif;
+  background: #0f1420;
+  color: #d7e0ee;
+  height: 100%;
+}
+
+button {
+  font-family: inherit;
+}
+
+:root {
+  --accent: #4fa8ff;
+  --ok: #3fbf7f;
+  --warn: #ffb020;
+  --bad: #ff5c5c;
+  --panel: #18202f;
+  --border: #2a3548;
+}
